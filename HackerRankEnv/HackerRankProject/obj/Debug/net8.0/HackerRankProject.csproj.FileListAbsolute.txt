@@ -1,0 +1,14 @@
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/bin/Debug/net8.0/HackerRankProject
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/bin/Debug/net8.0/HackerRankProject.deps.json
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/bin/Debug/net8.0/HackerRankProject.runtimeconfig.json
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/bin/Debug/net8.0/HackerRankProject.dll
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/bin/Debug/net8.0/HackerRankProject.pdb
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/HackerRankProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/HackerRankProject.AssemblyInfoInputs.cache
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/HackerRankProject.AssemblyInfo.cs
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/HackerRankProject.csproj.CoreCompileInputs.cache
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/HackerRankProject.dll
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/refint/HackerRankProject.dll
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/HackerRankProject.pdb
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/HackerRankProject.genruntimeconfig.cache
+/Users/facere/Fun/HackerRankEnv/HackerRankProject/obj/Debug/net8.0/ref/HackerRankProject.dll
