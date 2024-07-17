@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HackerRankProject
-build_property.ProjectDir = /Users/facere/Fun/HackerRankEnv/HackerRankProject/
+build_property.ProjectDir = /Users/facere/Fun/CodingExercises/HackerRankEnv/HackerRankProject/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
